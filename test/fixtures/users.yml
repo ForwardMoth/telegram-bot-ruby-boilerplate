@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: MyString
+  message_id: 1
+  query_date: 2023-04-25 11:30:55
+  text: MyString
+  is_auth: false
+  date_uath: 2023-04-25 11:30:55
+  state: MyString
+  date_state: 2023-04-25 11:30:55
+
+two:
+  user_id: MyString
+  message_id: 1
+  query_date: 2023-04-25 11:30:55
+  text: MyString
+  is_auth: false
+  date_uath: 2023-04-25 11:30:55
+  state: MyString
+  date_state: 2023-04-25 11:30:55
